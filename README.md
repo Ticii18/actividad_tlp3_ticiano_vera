@@ -37,6 +37,13 @@ Code .
 4. Ejecutá cada celda presionando `Ctrl + alt + Enter` para ver los resultados de cada actividad.
 
 ---
+## No se muestran todos los resultados
+
+Si no te sale el resultado completo, y te sale este texto al final:
+
+ - **![Mensaje de ver resultados](image.png)**
+
+debes dar click en donde dice "scrollable element". Para asi poder ver todos los resultados
 
 ## 🧑‍💻 Autor
 
